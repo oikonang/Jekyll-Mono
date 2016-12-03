@@ -89,7 +89,7 @@ button.button-primary:focus {
 */
 
 .intro-header {
-  border-top: 5px solid white;
+/*  border-top: 5px solid white; */
   background-color:$mono-color;
 }
 
@@ -179,8 +179,9 @@ button.button-primary:focus {
 }
 
 .ch-item {
-	width: 100%;
+/*	width: 100%;
 	height: 100%;
+*/
 	border-radius: 50%;
 	position: relative;
 	box-shadow: 0 1px 2px rgba(0,0,0,0.1);
@@ -240,6 +241,7 @@ button.button-primary:focus {
 
 .ch-img-1 { 
 	background-image: url(#{$avatar});
+    background-repeat: no-repeat;
 }
 
 .ch-info h3 {

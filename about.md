@@ -52,4 +52,4 @@ Founder, ABC Organisation
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[angelos.ikonomakis@gmail.com](mailto:angelos.ikonomakis@gmail.com)
