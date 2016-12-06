@@ -51,6 +51,7 @@ Founder, TEDxSparta
 
 ## Skills
 
+<i class="fa fa-camera-retro fa-lg"></i> fa-lg
 * **Programming Languages** - `Python` / `R` 
 * **Databases** - `SQL` / `MongoDB` / `Neo4j` / `Pandas`
 * **Web Programming** - `HTML` / `CSS` / `Javascript` / `PHP` / `MySQL`
