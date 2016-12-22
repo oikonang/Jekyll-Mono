@@ -34,6 +34,8 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 * **Isik University**    
 *Lab Instructor & IT Administrator*
 
+***
+
 ## Education
 
 * **Danmarks Tekniske Universitet**    
@@ -45,24 +47,34 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 * **University of Piraeus**    
 *Bsc in  Technology and Digital Systems*
 
-## Roles
-
-Founder, TEDxSparta
+***
 
 ## Skills
 
-<i class="fa fa-camera-retro fa-lg"></i> fa-lg
-* **Programming Languages** - `Python` / `R` 
-* **Databases** - `SQL` / `MongoDB` / `Neo4j` / `Pandas`
-* **Web Programming** - `HTML` / `CSS` / `Javascript` / `PHP` / `MySQL`
-* **Big Data Tools** - `Apache Spark` /  `MapReduce` / `Dask`
-* **Cloud Computing** - `Amazon EC2` / `S3` 
-* **Graph Networks** - `Data Mining` / `Text Mining` / `APIs` 
-* **OS** - `Mac` / `Linux` / `Windows` 
-    
+<i class="fa fa-code fa-2x" aria-hidden="true"></i> **Programming Languages** - `Python` / `R` / `Java`  
+
+<i class="fa fa-database fa-2x" aria-hidden="true"></i>&nbsp;&nbsp; **Databases** - `SQL` / `MongoDB` / `Neo4j` / `Pandas`    
+
+<i class="fa fa-firefox fa-2x" aria-hidden="true"></i> **Web Programming** - `HTML` / `CSS` / `Javascript` / `PHP` / `MySQL`    
+
+<i class="fa fa-cubes fa-2x" aria-hidden="true"></i> **Big Data Tools** - `Apache Spark` /  `MapReduce` / `Dask`    
+
+<i class="fa fa-cloud fa-2x" aria-hidden="true"></i> **Cloud Computing** - `Amazon EC2` / `S3`    
+
+<i class="fa fa-sitemap fa-2x" aria-hidden="true"></i> **Graph Networks** - `Data Mining` / `Text Mining` / `APIs`    
+
+<i class="fa fa-desktop fa-2x" aria-hidden="true"></i> **OS** - `Mac` / `Linux` / `Windows` 
+ 
+
+***   
     
 ## Achievements
 
+* **TEDxSparta 2015**
+
+   Licensee and Curator.
+ 
+***
 
 * **Make Innovation Work 2014**
 
