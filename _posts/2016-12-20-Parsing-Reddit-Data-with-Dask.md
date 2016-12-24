@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first post ever made
+title: Parsing Reddit Data with Dask
 author: Angelos Ikonomakis
 ---
 
