@@ -9,7 +9,8 @@ author: Angelos Ikonomakis
 [figure_4]: ../images/figure_4.png "Figure 4"
 [figure_5]: ../images/figure_5.png "Figure 5"
 [figure_6]: ../images/figure_6.png "Figure 6"
-[figure_7]: ../images/figure_7.png "Figure 7"
+[figure_7]: ../images/figure_7.png "Figure 7"    
+
 ## Overview
 
 In an attempt to play around with medium-sized data, I found a 30GB uncompressed dataset from reddit comments from 01/2015. This post is a step-by-step data exploration on that dataset. Firstly I uploaded the dataset in an Amazon server for learning purposes. Medium-sized datasets are easily managable by normal processing power computer systems. I run both in Amazon EC2 and on my MacBookPro Late 2013, 8GB, i5 and it worked perfectly fine. Secondly, I created a castra file in order to parse the dataset without using RAM at all but only processing power. Then I created a bag-of-words using Dask and then a sentiment analysis of the comments using the LabMT wordlist. Lastly I created a WordCloud for one of the topics just for fun. Enjoy!
