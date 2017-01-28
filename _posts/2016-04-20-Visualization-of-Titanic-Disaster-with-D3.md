@@ -15,10 +15,7 @@ author: Angelos Ikonomakis
 
 In an attempt to experimentize with the visualization tools (Dimple.js, D3.js, visualization design principles, visual encodings, HTML, CSS, SVG) I created a polished data visualization that tells a story about survival rates of Titanic disaster, allowing a reader to explore trends or patterns.
 
-
-<iframe src="http://bl.ocks.org/oikonang/raw/3ad78d923c28b48947a2eda389677a11/" marginwidth="0" marginheight="0" scrolling="no">
-</iframe>
-
+<iframe src="http://bl.ocks.org/oikonang/raw/3ad78d923c28b48947a2eda389677a11/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <!--
 ```python
