@@ -25,7 +25,7 @@ After been provided with some feedback from frinds and coleagues concerning the 
 In addition, I fixed some code indentation styling issues, I fixed a miscalculated variable (survival rate) on the data and lastly I fixed the bar ordering according to labels.
 
 ## Summary
-When trying to compare survival rate between genders for the Titanic disaster, females had more chances to survive compared to males. As far as the socio-economic status of the passengers, those travelling in 1st class were more likely to survive than those travelling in 2nd class, which inturn were more likely to survive than 3rd class passengers. Children and Adult (< 40 years-old) passengers were more likely to survive compared to the rest age groups.
+When trying to compare survival rate between genders for the Titanic disaster, females had more chances to survive compared to males. As far as the socio-economic status of the passengers, those travelling in 1st class were more likely to survive than those travelling in 2nd class, which inturn were more likely to survive than 3rd class passengers. Children and Adult (< 40 years-old) passengers were more likely to survive compared to the rest age groups. **[This](http://bl.ocks.org/oikonang/3ad78d923c28b48947a2eda389677a11 "GIST project")** is a link of the whole project including coding and data modification. Enjoy!
 
 ## Resources
 * [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic "Dataset"){:target="_blank"}    
