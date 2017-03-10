@@ -89,8 +89,9 @@ button.button-primary:focus {
 */
 
 .intro-header {
-/*  border-top: 5px solid white; */
+  border-top: 5px;
   background-color:$mono-color;
+  border-bottom: 0px;
 }
 
 .intro-header .post-heading {
@@ -158,11 +159,13 @@ button.button-primary:focus {
 }
 
 .ch-grid {
-	
-	padding: 0;
+	margin-top: -20px; /* top margin of the logo*/
+    margin-bottom: 10px;
+    margin-left: 10px;
+	padding: 20px;/*changed from 0*/
 	list-style: none;
-	display: block;
-	text-align: center;
+	/*display: block;*/
+	text-align: left; /*has been changed from center*/
 	width: 100%;
     
 }
@@ -178,8 +181,8 @@ button.button-primary:focus {
 }
 
 .ch-grid li {
-	width: 220px;
-	height: 220px;
+	width: 50px;
+	height: 50px;
 	display: inline-block;	
 }
 
@@ -196,9 +199,10 @@ button.button-primary:focus {
 .ch-info-wrap, 
 .ch-info{
 	position: absolute;
-	width: 180px;
-	height: 180px;
+	width: 70px; /* the size of the bullet */
+	height: 70px;
 	border-radius: 50%;
+    border-width: 10px;
 }
 
 .ch-info-wrap {
@@ -206,8 +210,8 @@ button.button-primary:focus {
 	left: 20px;
 	background: #fff url(/images/bg.jpg);
 	box-shadow: 
-		0 0 0 20px rgba(255,255,255,0.2), 
-		inset 0 0 3px rgba(115,114, 23, 0.8);
+		0 0 0 10px rgba(255,255,255,0.2), /* the size of the border of the bullet */
+		inset 0 0 5px rgba(115,114, 23, 0.8);
 }
 
 .ch-info > div {
@@ -247,6 +251,7 @@ button.button-primary:focus {
 .ch-img-1 { 
 	background-image: url(#{$avatar});
     background-repeat: no-repeat;
+    text-align: left;
 }
 
 .ch-info h3 {
@@ -272,15 +277,16 @@ button.button-primary:focus {
 	
 }
 
-.ch-info p a {
+.ch-info p a { /*This is the linkedin link after hovering the logo*/
 	display: block;
 	color: $mono-color;
 	font-style: normal;
 	font-weight: 700;
 	text-transform: uppercase;
-	font-size: 9px;
+	font-size: 10px;
 	letter-spacing: 1px;
 	padding-top: 4px;
+    margin-left: -25px; /*This fixes the space of the link*/
 	font-family: 'Open Sans', Arial, sans-serif;
 }
 

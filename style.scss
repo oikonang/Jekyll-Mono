@@ -18,6 +18,7 @@ html {
 }
 
 body {
+
   background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
@@ -25,7 +26,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 950px;
   padding: 0 10px;
   width: 100%;
 }
@@ -137,6 +138,7 @@ img {
 .clearfix:after {
     content: " ";
     display: table;
+    margin-top: -55px; /*make the title along with the top buttons to move up*/
 }
 
 .clearfix:after {
@@ -152,11 +154,12 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: -50px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
