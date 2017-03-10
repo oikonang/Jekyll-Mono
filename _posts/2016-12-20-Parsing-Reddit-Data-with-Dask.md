@@ -27,6 +27,7 @@ author: Angelos Ikonomakis
 [figure_22]: ../images/figure_23.png "Figure 22"
 [figure_23]: ../images/figure_24.png "Figure 23"
 [figure_24]: ../images/figure_25.png "Figure 24"
+This post is a step-by-step data exploration on a month of Reddit posts. It includes an **AWS Amazon Server** setup, a **Pandas** analysis of the Dataset, a **castra** file setup, then NLP using **Dask** and then a sentiment analysis of the comments using the **LabMT wordlist**. Lastly there is a **WordCloud** setup. All in Python language. Enjoy!
 
 ## Overview
 

@@ -4,6 +4,7 @@ title: Visualization of Titanic Disaster using D3
 author: Angelos Ikonomakis
 ---
 [figure_1]: ../images/figure_8.png "Figure 1"  
+In an attempt to experimentize with the visualization tools (**Dimple.js, D3.js, visualization design principles, visual encodings, HTML, CSS, SVG**) I created a polished data visualization that tells a story about survival rates of Titanic disaster, allowing a reader to explore trends or patterns.
 
 ## Overview
 

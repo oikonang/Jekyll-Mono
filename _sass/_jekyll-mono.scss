@@ -90,14 +90,14 @@ button.button-primary:focus {
 
 .intro-header {
   border-top: 5px;
-  background-color:$mono-color;
+  background-color: $blog-color;     /*$mono-color;*/ /*This is the background of the blogpost header*/
   border-bottom: 0px;
 }
 
 .intro-header .post-heading {
   padding: 100px 0 50px;
   color: $white;
-  /*background-image: url('../images/big_data.png');
+  /*background-image: url('../images/big_data.png');*/
   opacity: 0.3;
   top: 0;
   left: 0;
