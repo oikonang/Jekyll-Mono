@@ -3,7 +3,6 @@ layout: post
 title: Visualization of Titanic Disaster using D3
 author: Angelos Ikonomakis
 ---
-[figure_1]: ../images/figure_8.png "Figure 1"  
 In an attempt to experimentize with the visualization tools (**Dimple.js, D3.js, visualization design principles, visual encodings, HTML, CSS, SVG**) I created a polished data visualization that tells a story about survival rates of Titanic disaster, allowing a reader to explore trends or patterns.
 
 ## Overview
@@ -11,7 +10,7 @@ In an attempt to experimentize with the visualization tools (**Dimple.js, D3.js,
 In an attempt to experimentize with the visualization tools (Dimple.js, D3.js, visualization design principles, visual encodings, HTML, CSS, SVG) I created a polished data visualization that tells a story about survival rates of Titanic disaster, allowing a reader to explore trends or patterns.
 
 ## Design
-
+[figure_1]: ../images/figure_8.png "Figure 1"
 [![alt text][figure_1]](http://bl.ocks.org/oikonang/raw/3ad78d923c28b48947a2eda389677a11/ "Bl.ocks"){:target="_blank"}
 
 The number of peolpe survived and the gender of the passengers are the two most important information in the dataset, so they were included along the y and x axis respectively. I chose "sex" to plot along the x-axis, so that the viewer can easily differentiate between the number of passengers surviving in each group. As far as the plotting is concerned, a bar chart, was the ideal solution as "sex" is a categorical variable and survival rate is a continuous variable.
