@@ -90,7 +90,7 @@ button.button-primary:focus {
 
 .intro-header {
   border-top: 5px;
-  background-color: $mono-color;     /*$mono-color;*/ /*This is the background of the blogpost header*/
+  background-color: $blog-color;     /*$mono-color;*/ /*This is the background of the blogpost header*/
   border-bottom: 0px;
 }
 
@@ -102,7 +102,7 @@ button.button-primary:focus {
   top: 0;
   left: 0;
   bottom: 0;
-  right: 0;*/
+  right: 0;
 }
 
 .intro-header .post-heading h1 {
