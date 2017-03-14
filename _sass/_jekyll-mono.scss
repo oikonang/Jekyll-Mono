@@ -90,13 +90,13 @@ button.button-primary:focus {
 
 .intro-header {
   border-top: 5px;
-  background-color: $mono-color;     /*$mono-color;*/ /*This is the background of the blogpost header*/
+  /*background-color: $mono-color;*/     /*$mono-color;*/ /*This is the background of the blogpost header*/
   border-bottom: 0px;
 }
 
 .intro-header .post-heading {
   padding: 100px 0 50px;
-  color: #FFFFFF;
+  color: #AAA;
   /*background-image: url('../images/big_data.png');*/
   opacity: 0.3;
   top: 0;
@@ -106,10 +106,17 @@ button.button-primary:focus {
 }
 
 .intro-header .post-heading h1 {
-    color:$white;
+    color: #AAA;
     font-size: 36px;
     line-height: 1.5;
     font-family:$raleway ;
+    margin-top: -20px;
+}
+
+#d3_element {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid $black;
 }
 
 @media only screen and (min-width: 768px) {
