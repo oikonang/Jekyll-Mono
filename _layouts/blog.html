@@ -9,7 +9,7 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <meta charset="utf-8">
-    <script type="text/javascript" src="../d3.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
     <script type="text/javascript"
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
@@ -60,21 +60,20 @@
                            .attr("width", w_s)
                            .attr("height", h_s);
 
-            
 
             svg_sc.selectAll("circle")  // <No longer "rect"
                .data(data_s)
                .enter()
                .append("circle")     // < No longer "rect"
-               .attr("cx", function(d) {
+               .attr("cx", function(d) { return xScale(d[0]); })
+               .attr("cy", function(d) { return yScale(d[1]); })
+               .attr("r", 5)
+               .transition().each("end", function(){
+                  d3.select(this).attr("fill","red");
+               });
 
-                  return xScale(d[0]);
-                  debugger;
-                })
-                .attr("cy", function(d) {
-                  return yScale(d[1]);
-                })
-                .attr("r", 5);
+
+
             </script>
             <h1>{{page.title}}</h1>
             <span class="meta">Posted by <a href="{{ site.baseurl }}/about"> {{page.author}}
