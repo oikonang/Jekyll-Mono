@@ -10,7 +10,7 @@ ArXiv Abstract Similarity Engine is a final project created by three master stud
 
 ### [311 SERVICE REQUESTS IN NEW YORK CITY]( https://oikonang.github.io/social_data_visualization/prj/ ) 
 
-This analysis a final project created by three master students spring semester 2017 in the course 02806 Social data analysis and visualizations, run by Sune Lehmann at the Technical University of Denmark. The two main topics of the course (besides python programming) is applying some machine learning algorithms in city related databases and visualize the results in using D3.js javascrip library. The project has hence been thought out to leverage the techniques we've learned in those topics.
+This project concerns an analysis created by three master students spring semester 2017 in the course 02806 Social data analysis and visualizations, run by Sune Lehmann at the Technical University of Denmark. The two main topics of the course (besides python programming) is applying some machine learning algorithms in city related databases and visualize the results in using D3.js javascrip library. The project has hence been thought out to leverage the techniques we've learned in those topics.
 
 ### [Phrasebook]( http://getphrasebook.com/ ) 
 

@@ -22,16 +22,16 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 
 ## Experience
 
-* **Maersk Oil Trading**    
+* **Maersk Oil Trading | DENMARK**    
 *Junior Data Scientist*
 
-* **Vodafone S.A.**    
+* **Vodafone | GREECE**    
 *Data Analyst - Graduate Trainee*
 
-* **Military Service, Special Forces, Airborne School**    
+* **Military Service, Special Forces, Airborne School | GREECE**    
 *Jump Captain’s Assistant*
 
-* **Isik University**    
+* **Isik University | TURKEY**    
 *Lab Instructor & IT Administrator*
 
 ***
@@ -39,7 +39,7 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 ## Education
 
 * **Danmarks Tekniske Universitet**    
-*MSc in Degital Media Engineering - Data Science*
+*MSc in Digital Media Engineering - Data Science*
 
 * **Athens Unversity of Economics and Business**    
 *MSc in International Marketing*
@@ -55,7 +55,7 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 
 <i class="fa fa-database fa-2x" aria-hidden="true"></i>&nbsp;&nbsp; **Databases** - `SQL` / `MongoDB` / `Neo4j` / `Pandas`    
 
-<i class="fa fa-firefox fa-2x" aria-hidden="true"></i> **Web Programming** - `HTML` / `CSS` / `Javascript` / `PHP` / `MySQL`    
+<i class="fa fa-firefox fa-2x" aria-hidden="true"></i> **Web Programming** - `HTML` / `CSS` / `Javascript` /  `D3.js` /  `Bootstrap.js` /  `PHP` / `MySQL`    
 
 <i class="fa fa-cubes fa-2x" aria-hidden="true"></i> **Big Data Tools** - `Apache Spark` /  `MapReduce` / `Dask`    
 
