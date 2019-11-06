@@ -7,16 +7,19 @@ permalink: /about/
 ### Starting up 
 I was brought up in nature, where I cycled my first bike, learned to appreciate my surroundings and respect earth’s power. Growing up in Sparta has been very fortunate, as I had to unavoidably juxtapose city life with suburban-country life, assess their pros and cons in relation to my future goals. Moving to Athens at the age of 17 came as a sudden awakening to the world of technology.
 
-### Studies | International Perspective
-Initiating with Computer Science at the Department of Digital Systems (University of Piraeus), I had the opportunity to work at the IT Department as a Lab Instructor and IT Administrator of a well-responded private University in Turkey (Işık Üniversitesi) and to take part in an exchange program in Network Engineering in Spain (Universidad de Granada). An overall educational background of multicultural awareness was lacking though. 
-Thus, I applied for a Master's Degree in International Marketing (Athens University of Economics and Business) in order to augment my awareness of the global market and entrepreneurship. 
-I also graduated from the Data Analyst Nanodegree at Udacity in order to thrive in what I love most - looking for clues in big data warehouses.  
-
 ### Professional Goals
-The courses I found the most interesting among others were International Marketing Research and International B2B, where I put most of my effort, as they responded to Data Science and Business Consulting which I have chosen as my future vocational paths. 
- 
+Throughout my career, I have mainly focused on the commercial aspect of the telecommunications industry and the technical aspect of the shipping industry. So far, I have always been combining my profession to the academy; to this day I hold the position of an Industrial PhD student (DTU Mechanical Engineering) in collaboration with Maersk, for which I have been working for the past 2 years in Copenhagen. My skills of research analysis on vessel hydrodynamics, data analytics and physical/mathematical modeling, as well as meticulous research on statistical learning techniques, have been critical into solving real marine industry problems.    
+
 ### Recent Occupation
-After completing my M.Sc. degree and Military service, I joined Vodafone as a Graduate Trainee. Meanwhile I attend a second master's in Digital Media Engineering in DTU (Copenhagen) while working at Maersk and educating myself in new data science technologies. When time isn't an obstacle, I travel on bike at as many places on earth as I can, in an effort to see the world in another point of view.  
+The thematic of my PhD project is *“​Sensor fusion on real-time data to drive vessel performance​”*. For the project to be successful    
+**(i)** sensor readings should be corrected and used along with other real-time measurements to build      
+**(ii)** high-quality physics/data-driven propulsion model/corresponding fuel tables that can be scaled across the entire fleet in order to get a      
+**(iii)** deeper understanding of added resistance, that constitute its main objectives.    
+
+It is expected to contribute to a reduction of more than 1% to the fleet inefficiency compared to the 2017 index. The actual saving in USD will be highly depended on the volume transported by Maersk vessels. However, savings of 50k MT of fuel on a yearly basis should be also expected, reflecting around 20 million dollars per year.
+
+### Apart from work..
+When time isn't an obstacle, I travel on bike at as many places on earth as I can, in an effort to see the world in another point of view.
 
 ***
 
@@ -54,21 +57,17 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 
 ***
 
-## Skills
+### Skills
 
-<i class="fa fa-code fa-2x" aria-hidden="true"></i> **Programming Languages** - `Python` / `R` / `Java`  
+<i class="fa fa-code fa" aria-hidden="true"></i> **Programming Languages** - `Python` / `R` / `Matlab` /`Julia` / `LISP` / `Java` 
 
-<i class="fa fa-database fa-2x" aria-hidden="true"></i>&nbsp;&nbsp; **Databases** - `SQL` / `MongoDB` / `Neo4j` / `Pandas`    
+<i class="fa fa-database fa" aria-hidden="true"></i>&nbsp;&nbsp; **Databases** - `SQL` / `MongoDB` / `Neo4j` / `NetCDF`   
 
-<i class="fa fa-firefox fa-2x" aria-hidden="true"></i> **Web Programming** - `HTML` / `CSS` / `Javascript` /  `D3.js` /  `Bootstrap.js` /  `PHP` / `MySQL`    
+<i class="fa fa-cubes fa" aria-hidden="true"></i> **Tools** - `Docker` / `Kubernetes`/ `Apache Spark` /  `MapReduce` / `Dask`   
 
-<i class="fa fa-cubes fa-2x" aria-hidden="true"></i> **Big Data Tools** - `Apache Spark` /  `MapReduce` / `Dask`    
+<i class="fa fa-cloud fa" aria-hidden="true"></i> **Cloud Computing** - `Amazon EC2` / `S3` / `Microsoft Azure`
 
-<i class="fa fa-cloud fa-2x" aria-hidden="true"></i> **Cloud Computing** - `Amazon EC2` / `S3`    
-
-<i class="fa fa-sitemap fa-2x" aria-hidden="true"></i> **Graph Networks** - `Data Mining` / `Text Mining` / `APIs`    
-
-<i class="fa fa-desktop fa-2x" aria-hidden="true"></i> **OS** - `Mac` / `Linux` / `Windows` 
+<i class="fa fa-desktop fa" aria-hidden="true"></i> **Editors** - `Emacs` / `Visual Studio Code`
  
 
 ***   
