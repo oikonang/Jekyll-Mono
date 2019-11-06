@@ -22,7 +22,7 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 
 ## Experience
 
-* **Maersk Digital | DENMARK**
+* **Maersk Digital | DENMARK**    
 *Research Scientist*
 
 * **Maersk Oil Trading | DENMARK**    
@@ -40,7 +40,7 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 ***
 
 ## Education
-* **Danmarks Tekniske Universitet** 
+* **Danmarks Tekniske Universitet**    
 *PhD in Mechanical/Electrical Engineering*
 
 * **Danmarks Tekniske Universitet**    
@@ -76,12 +76,13 @@ After completing my M.Sc. degree and Military service, I joined Vodafone as a Gr
 ## Achievements
 
 * **BigFour Finisher 2019**
-
- Including:    
- * Copenhagen Marathon
- * Elsinore Ironman 70.3
- * Copenhagen Full Ironman
- * Copenhagen Half Marathon
+   
+ > Copenhagen Marathon
+ > Elsinore Ironman 70.3
+ > Copenhagen Full Ironman
+ > Copenhagen Half Marathon
+ 
+***
 
 * **TEDxSparta 2015**
 
