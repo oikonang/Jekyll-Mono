@@ -76,10 +76,10 @@ When time isn't an obstacle, I travel on bike at as many places on earth as I ca
 
 * **BigFour Finisher 2019**
    
- > Copenhagen Marathon
- > Elsinore Ironman 70.3
- > Copenhagen Full Ironman
- > Copenhagen Half Marathon
+ > Copenhagen Marathon      
+ > Elsinore Ironman 70.3     
+ > Copenhagen Full Ironman     
+ > Copenhagen Half Marathon     
  
 ***
 
