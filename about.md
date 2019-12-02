@@ -74,11 +74,10 @@ When time isn't an obstacle, I travel on bike at as many places on earth as I ca
     
 ## Achievements
 
-<<<<<<< HEAD
 * [**BIG FOUR CPH 2019 finisher**](https://secure.onreg.com/onreg2/users/reports_public.php?id=4670&list=true&type=html&reportid=1&checksum=da4b096c4361c11395af26c130b69dc7)
 
 	Always raising the bar on personal performance, 2019 was a year devoted to personal development. Only 184 individuals in Denmark managed to be in the Big Four finishers of 2019 and I am glad to be part of that group. In order for someone to be granted the Big Four medal of the year, he/she need to finish **Copenhagen Marathon**, **IRONMAN70.3 Elsinore**, **IRONMAN Copenhagen** and **Copenhagen half-marathon**.
-=======
+
 * **BigFour Finisher 2019**
    
    Copenhagen Marathon        
@@ -87,7 +86,6 @@ When time isn't an obstacle, I travel on bike at as many places on earth as I ca
    Copenhagen Half Marathon     
  
 ***
->>>>>>> ac674e6691b55f897190001b63e7c1e602fa498c
 
 * **TEDxSparta 2015**
 
