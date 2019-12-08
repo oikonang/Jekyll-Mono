@@ -4,7 +4,6 @@ title: A week sailing on Maersk Lirquen
 author: Angelos Ikonomakis
 ---
 [figure_1]: ../images/Lirquen/xsens.png "Figure 1"
-
 In this post, I will share some facts about the trip I am about to do (I am currently flying to Singapore by the way) on the next days to come. The main subject of this trip(as the title claims) is sailing on a 300m container vessel for 7 days, from Singapore to Busan(South Korea). The main purpose of the trip is to collect inertial data which will be sourced as measurement inputs into a nonlinear model I have built, for the purpose of my PhD project.
 
 ## Overview
