@@ -7,6 +7,8 @@ author: Angelos Ikonomakis
 
 In this post, I will share some facts about the trip I am about to do (I am currently flying to Singapore by the way) on the next days to come. The main subject of this trip(as the title claims) is sailing on a 300m container vessel for 7 days, from Singapore to Busan(South Korea). The main purpose of the trip is to collect inertial data which will be sourced as measurement inputs into a nonlinear model I have built, for the purpose of my PhD project.
 
+## Overview
+
 During the trip, once per day, I will update my GPS location on the **live map** below. Additionally, you can follow me on **[Instagram](https://www.instagram.com/angelos.ikonomakis/)** if you want to see photos and stories during the trip under the hashtag #sailwithlirquenproject. The total trip duration will be 11 days, due to me living in Copenhagen and having to fly to Singapore for the embarkation, and flying back from Busan after the disembarkation. 
 
 <style>
