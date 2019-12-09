@@ -534,6 +534,6 @@ A short overview of the sensors that will be installed on the vessel, is describ
 
 ![xsens_overview][figure_1]
 
-Unfortunately, due to confidentiality I am not allowed to share any delails regarding the purpose, the technical requirements, the software and hardare handling. So, stay tuned by following me on **[Instagram](https://www.instagram.com/angelos.ikonomakis/)**, and let the journey begin! 
+Unfortunately, due to confidentiality I am not allowed to share any delails regarding the purpose, the technical requirements, the software and hardware handling. So, stay tuned by following me on **[Instagram](https://www.instagram.com/angelos.ikonomakis/)**, and let the journey begin! 
 
 
