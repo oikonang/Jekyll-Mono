@@ -329,7 +329,7 @@ var mymap = L.map('realtime_map').setView(center, 4);
 }).addTo(mymap);
 
 // Create starting marker
-var marker_start = L.marker([1.27, 103.76]).addTo(mymap);
+var marker_start = L.marker([1.274548, 103.758484]).addTo(mymap);
 marker_start.bindPopup("<b>Starting Point!</b>").openPopup();
 
 // Create finishing marker
@@ -365,7 +365,7 @@ legend.html('<i style="background: green"></i>' + 'Starting Point' + '<br/>' +
             
 // Hardcode the values of the csv
 var csv = `day,date,lat,lon,state
-0,2019-12-09 08:59:00,1.3040866,103.8406997,0
+0,2019-12-09 08:59:00,1.274548,103.758484,0
 1,2019-12-10 21:42:00,1.273252,103.9429,1
 `;
 //1,2017-07-05 22:21:22,4.745150538820687,108.09010738495566,1
