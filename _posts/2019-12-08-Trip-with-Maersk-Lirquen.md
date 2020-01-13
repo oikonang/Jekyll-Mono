@@ -484,15 +484,15 @@ linePath.attr("d", toLine)
 function mouseover(d){
         if(+d.state == 0){
             // Write staff on tooltip
-            div.html("<h4>Realtime Location</h4>" + "<br/>" + "<strong>Starting point!</strong>"+ "<br/>" + "Date: " + d.date + " UTC")  
+            div.html("<h4>Realtime Location</h4>" + "<br/>" + "<strong>Starting point!</strong>"+ "<br/>" + "Date: " + d.date + " UTC+8")  
         }
         else if(+d.state == 1){
             // Write staff on tooltip
-            div.html("<h4>Realtime Location</h4>" + "<br/>" + "Day " + d.day + "<br/>" + "Date: " + d.date + " UTC")  
+            div.html("<h4>Realtime Location</h4>" + "<br/>" + "Day " + d.day + "<br/>" + "Date: " + d.date + " UTC+8")  
         }
         else if(+d.state == 2){
             // Write staff on tooltip
-            div.html("<h4>Realtime Location</h4>" + "<br/>" + "<strong>Finish point</strong>" + "<br/>" + "Total Days " + d.day + "<br/>" + "Date: " + d.date + " UTC")  
+            div.html("<h4>Realtime Location</h4>" + "<br/>" + "<strong>Finish point</strong>" + "<br/>" + "Total Days " + d.day + "<br/>" + "Date: " + d.date + " UTC+8")  
         }
         // Show tooltip
         div.transition()    
