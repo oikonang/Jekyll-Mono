@@ -67,10 +67,12 @@ div.tooltip {
  Make sure you put this AFTER Leaflet's CSS
  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
    crossorigin=""></script>-->
+   <!-- This is before adding everything in blog
 <link rel="stylesheet" href="//cdn.leafletjs.com/leaflet-0.7/leaflet.css"/>
-<script src="/assets/js/leaflet07.js"></script>
+<script src="https://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
 <script src="//d3js.org/d3.v4.min.js" type="text/javascript"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+-->
 <!-- //cdn.leafletjs.com/leaflet-0.7/leaflet-->
 <div id="realtime_map"></div>
 
