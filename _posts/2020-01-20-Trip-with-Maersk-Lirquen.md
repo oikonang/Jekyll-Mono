@@ -690,9 +690,9 @@ The days at sea have become second nature to me by now. It’s impressive how fa
 
 Besides the standard daily tasks of monitoring the sensors, restarting them, documenting the timestamps, etc., I also managed to start the data processing of a small data sample from one of the sensors. It was a good first step, given that there is no internet and not much to do without connection. I also recorded a small(17mins) HD video trying to monitor the bending of the hull in rough weather. It is amazing plus scary to watch it bending by looking from the bridge. You see a wave hitting the bow, and how it transmits its frequency to the rest of the hull coming right towards you. **An absolute must see**!
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=1h1XmmPZM18
-" target="_blank"><img src="http://img.youtube.com/vi/1h1XmmPZM18/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="100%" height="580" border="10" /></a>
+<figure class="video_container">
+  <iframe width="100%" height="580" src="https://www.youtube.com/embed/1h1XmmPZM18" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 I talked to the captain and the officers about various things lucking from my understanding of life at sea and of how procedures work while sailing. At the end of the day, since I was missing some cardio activity and after being at the gym for two days in a row, I decided to do 30mins of intense running intervals up and down the stairs to the bridge. I managed to climb 6 times from the upper deck to the bridge and down (which is similar to a 10-floor-building) with 45sec of rest after each interval. After a long day, it was time for updating my geolocation at the live map and finally have some good rest for the last 24 hours of that trip.
 
