@@ -622,11 +622,11 @@ After a long day(and night) I was able to capture a few photos of the vessel's l
 ![Singapore_19][figure_19]
 ![Singapore_20][figure_20]
 
-I also recorded a nightmode time-lapse of the first 3 hours of the trip! Click on the image below and enjoy the whole video (It's only 1min long)!
+I also recorded a nightmode time-lapse of the first 3 hours of the trip! Play and enjoy the video below (It's only 1min long)!
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=GiwQQOUFg24
-" target="_blank"><img src="http://img.youtube.com/vi/GiwQQOUFg24/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="100%" height="580" border="10" /></a>
+<figure class="video_container">
+  <iframe width="100%" height="580" src="https://www.youtube.com/embed/GiwQQOUFg24" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Surprisingly and quite unexpectedly, the vessel had to anchor a few hours after its departure. There had been oil spoilage at the starboard(right) part of the hull and a cleaning crew ought to come and fix it before we reached the next port. The cleaning was scheduled for (2019-12-10 Tue 08:00) so hopefully, there would not be any significant delay.
 
@@ -657,11 +657,11 @@ I stayed at the bridge for a couple of hours to experience the manoeuvering with
 ![Singapore_23][figure_23]
 ![Singapore_24][figure_24]
 
-Click on the image below and enjoy the timelapse video, beginning from disengaging the anchor outside Singapore, towards Hong Kong passing through the busy South China Sea!
+Enjoy the timelapse video below, beginning from disengaging the anchor outside Singapore, towards Hong Kong passing through the busy South China Sea!
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bGou14vw_bM
-" target="_blank"><img src="http://img.youtube.com/vi/bGou14vw_bM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="100%" height="580" border="10" /></a>
+<figure class="video_container">
+  <iframe width="100%" height="580" src="https://www.youtube.com/embed/bGou14vw_bM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Time for dinner. On Wednesdays and Saturdays, there is ice cream as a dessert and that was great news! So after a long day, it was time for resting, exercising at the ship’s gym and having a cozy dinner. The last task of the day was to check our location coordinates at around (2019-12-11 Wed 21:00) and update the live feed on the map. 
 
